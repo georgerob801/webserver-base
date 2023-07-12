@@ -1,0 +1,7 @@
+# largest folder in existence
+node_modules/
+
+# stuff that doesn't need uploading
+databases/
+logs/
+config/
